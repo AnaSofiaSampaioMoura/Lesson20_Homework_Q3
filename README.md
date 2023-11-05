@@ -1,6 +1,5 @@
-"ReadMe" 
-"https://docs.google.com/spreadsheets/d/146EnD8_OPfxxXDZcDhIMh7kbk2xF1JGoVV8iO_1T8V8/edit#gid=1917553320" 
-"https://docs.google.com/document/d/14VcS0-BrE0i2lsOWYBiK5okQvPeJ7TmxYv-gfXqiuU4/edit" 
-"https://docs.google.com/document/d/1-y5rnaBu1qHoikYuj7BNveiNo1xQoByhzEjsx_hTxWE/edit" 
-"https://docs.google.com/document/d/1eGFgddxWKRURqjfxqCZiiKQ_kxEeXiODyBfqugBChUs/edit" 
-"https://docs.google.com/document/d/1swM6yHrZvWmh5FCv8aiIch7Eqlw7KqH1pZjS-yKy-xc/edit" 
+[Home Assignment Lesson 5 __ Test documentation - QS 2 & 3 (Sofia Moura)]("../MyWork/Home Assignment Lesson 5 __ Test documentation - QS 2 & 3 (Sofia Moura) .xlsx")
+[Home Assignment Lesson 5 __ Test documentation (Sofia Moura)] ("../MyWork/Home Assignment Lesson 5 __ Test documentation (Sofia Moura).docx")
+[Home Assignment Lesson 6 __ Levels and types of testing (Sofia Moura)]("../MyWork/Home Assignment Lesson 6 __ Levels and types of testing (Sofia Moura).docx")
+[Home Assignment Lesson 8 __ What is a bug_ Bug tracking systems, acquaintance with Jira]("../MyWork/Home Assignment Lesson 8 __ What is a bug_ Bug tracking systems, acquaintance with Jira.docx")
+[Home Assignment Lesson 16 __ Basics of testing mobile apps]("../MyWork/Home Assignment Lesson 16 __ Basics of testing mobile apps.docx")
